@@ -1,0 +1,15 @@
+{
+  "name": "week9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionsversion.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
